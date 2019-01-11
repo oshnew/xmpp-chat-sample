@@ -4,3 +4,6 @@
  
 #RIOT GAMES
  - https://engineering.riotgames.com/news/chat-service-architecture-protocol
+ 
+ - CHAT SERVICE ARCHITECTURE: PERSISTENCE
+   https://engineering.riotgames.com/news/chat-service-architecture-persistence
