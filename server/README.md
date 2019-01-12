@@ -9,7 +9,7 @@ XMPP 서버
 1. https://netfuture.ch/2017/08/xmpp-comparison-ejabberd-vs-prosody/
 <hr/>
 
-### 서버 종류별 점유율 등 상세 정보 [링크](./top-xmpp-server-software)
+### 서버 종류별 점유율 등 상세 정보 [링크](top-xmpp-server-software.md)
 <hr />
 
 ### [후보 리스트]
