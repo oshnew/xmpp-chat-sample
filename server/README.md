@@ -31,6 +31,6 @@ XMPP 서버
 	1. 제약조건 상
 	1. 수정한 소스코드 혹은 GPL 소스코드를 활용한 소프트웨어 모두 GPL로 공개(단, 돈을 낸 사람에게만으로 제한할 수 있지만.. 글쎄...)
 	1. 특허 등에 의해 공개할 수 없는 것은 공개하지 않아도 됨
-1. <span style="color:red">무료 ejabberd SaaS 대체 프로그램 8개 : http://freealt.selfhow.com/ejabberd-saas/ </span>
+1. ```diff- 무료 ejabberd SaaS 대체 프로그램 8개``` : [링크]( http://freealt.selfhow.com/ejabberd-saas/) 
 
 <hr/>
