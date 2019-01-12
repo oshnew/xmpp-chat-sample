@@ -9,11 +9,11 @@ XMPP 서버
 1. https://netfuture.ch/2017/08/xmpp-comparison-ejabberd-vs-prosody/
 <hr/>
 
-### 서버 종류별 점유율 등 상세 정보 [링크](top-xmpp-server-software)
+### 서버 종류별 점유율 등 상세 정보 [링크](./top-xmpp-server-software)
 <hr />
 
-#### 후보 리스트
-##### openfire
+### [후보 리스트]
+#### openfire
 1. https://www.igniterealtime.org/projects/openfire/index.jsp
 1. 개발언어 : **java**
 1. 라이센스 : Open Source Apache
@@ -22,7 +22,7 @@ XMPP 서버
 
 <hr/>
 
-##### ejabberd
+#### ejabberd
 1. 개발언어 : erlang
 1. GITHUB: https://github.com/processone/ejabberd
 	1. ejabberd는 채팅 메시지를 저장하기위한 MySQL 지원
