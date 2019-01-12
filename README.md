@@ -12,7 +12,10 @@ xmpp-chat-sample
 	1. 특정 유저 차단 기능
 	1. WEB Admin 등의 관리용 시스템 필요
 	1. 보안을 위해 SSL 지원
- 
+
+1. web-client
+
+1. 테스트용 부하발생기 
 <hr/>
 
 #### 참고자료 리스트
