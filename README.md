@@ -20,7 +20,7 @@ xmpp-chat-sample
 
 #### 참고자료 리스트
 1. xmpp를 이용한 대용량 채팅 사용 사례: [링크](document/reference/xmpp기반_채팅시스템_사용사례.md)
-1. 서버 : [링크](server/README.md)
+1. 서버 : [링크](document/server/README.md)
 1. 테스트용 부하발생기: TODO
 1. web-client: TODO
 

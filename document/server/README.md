@@ -19,7 +19,7 @@ XMPP 서버
 1. 라이센스 : Open Source Apache
 	1. 제약조건 하
 1. GITHUB : https://github.com/igniterealtime/Openfire
-1. 설치방법 : [링크](openfire-install.md)
+1. 설치방법 : [링크](openfire/openfire-install.md)
 
 <hr/>
 
