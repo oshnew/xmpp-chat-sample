@@ -2,7 +2,8 @@ XMPP 서버
 =========
 <hr/>
 
-##서버 종류 참고
+서버 종류 참고
+--------
 
 1. http://freealt.selfhow.com/ejabberd-saas/
 1. https://xmpp.org/software/servers.html
@@ -11,7 +12,7 @@ XMPP 서버
 
 <hr/>
 
-##ejabberd
+## ejabberd
 - GITHUB: https://github.com/processone/ejabberd
 	- ejabberd는 채팅 메시지를 저장하기위한 MySQL 지원
 	- github 활성화 되어 있는 듯
@@ -22,6 +23,6 @@ XMPP 서버
 
 <hr/>
 
-##prosody
+## prosody
 1. https://prosody.im/
 2. 라이센스 : 
