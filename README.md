@@ -23,5 +23,5 @@ xmpp-chat-sample
 1. 서버 : [링크](document/server/README.md)
 1. 테스트용 부하발생기: TODO
 1. web-client: TODO
-1. 좋은 글: https://jeidee.github.io/
+1. 좋은 글: https://jeidee.github.io/ 에서 ejabberd로 검색
 
